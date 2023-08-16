@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Nani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+✨ Hi! I am Nani
+👩‍💻 I am currently learning/ Estoy aprendiendo 
+💬 Ask me about/ Pregúntame acerca de HTML, CSS, UX/UI Design
 
-- 
-
-<!---
-danype05/danype05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mis gustos 
+🌀 UX/UI Design 
+🧘‍♀️ Practicar yoga
+📷 La fotografía 
+📖 Leer 
